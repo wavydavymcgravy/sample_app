@@ -24,7 +24,7 @@ gem 'guard-spork', '0.3.2'
 gem 'spork', '0.9.0'
 end
 group :test do
-gem 'capybara', '1.1.2'
+gem 'capybara'
 gem 'factory_girl_rails'
 gem 'cucumber-rails', '1.2.1', require: false
 gem 'database_cleaner', '0.7.0'
